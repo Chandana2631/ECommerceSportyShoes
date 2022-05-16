@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/apache-tomcat-9.0.62/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/apache-tomcat-9.0.62/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/hibernate-core-5.6.8.Final.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-beans-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-core-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-instrument-5.3.20.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-jcl-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-jdbc-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-orm-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-tx-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-aop-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-context-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-expression-5.2.22.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-2.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/18491a0432qisce/Downloads/spring-web-5.1.6.RELEASE.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
